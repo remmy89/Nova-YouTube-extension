@@ -1,1 +1,149 @@
-
+{
+   "localization": {
+      "message": "hu"
+   },
+   "app_description": {
+      "message": "Ultimate decision for YouTube™"
+   },
+   "tab_map": {
+      "message": "Térkép"
+   },
+   "tab_plugins": {
+      "message": "Pluginok"
+   },
+   "tab_plugins_tooltip": {
+      "message": "Minden plugin"
+   },
+   "tab_other": {
+      "message": "Egyéb"
+   },
+   "plugins_search_placeholder": {
+      "message": "Keresés...."
+   },
+   "btn_plugins_search_clear_tooltip": {
+      "message": "Keresés tisztítása"
+   },
+   "opt_btn_save_settings": {
+      "message": "Mentés"
+   },
+   "opt_btn_save_settings_process": {
+      "message": "Mentés..."
+   },
+   "opt_btn_save_settings_processed": {
+      "message": "Elmentve!"
+   },
+   "opt_appearance_header": {
+      "message": "Fejléc"
+   },
+   "opt_appearance_player": {
+      "message": "Lejátszó"
+   },
+   "opt_appearance_sidebar": {
+      "message": "Oldalsáv"
+   },
+   "opt_appearance_details": {
+      "message": "Részletek"
+   },
+   "opt_appearance_comments": {
+      "message": "Hozzászólások"
+   },
+   "opt_appearance_other": {
+      "message": "Egyéb"
+   },
+   "opt_legend_settings_transfer": {
+      "message": "Beállítások átvitele:"
+   },
+   "opt_title_help_link": {
+      "message": "További információ"
+   },
+   "opt_btn_import_settings": {
+      "message": "Importálás"
+   },
+   "opt_prompt_import_settings": {
+      "message": "Nem érhető el a felugró ablakban!\nMegnyitja a beállításokat?"
+   },
+   "opt_alert_import_successfully": {
+      "message": "Beállítások sikeresen importálva!"
+   },
+   "opt_btn_export_settings": {
+      "message": "Exportálás"
+   },
+   "opt_btn_reset_settings": {
+      "message": "Visszaállítás"
+   },
+   "opt_prompt_reset_settings": {
+      "message": "Ajánlott biztonsági másolatot készíteni a jelenlegi beállításokról, mielőtt folytatná.\nMinden beállítást töröl?"
+   },
+   "opt_btn_save_settings_tooltip": {
+      "message": "A megnyitott lapok nem változnak"
+   },
+   "opt_btn_api_key_input": {
+      "message": "API kulcs"
+   },
+   "opt_api_key_generate": {
+      "message": "API kulcs generálása"
+   },
+   "opt_userscript_disable_setting_button": {
+      "message": "Beállítási gomb letiltása"
+   },
+   "opt_userscript_disable_setting_button_tooltip": {
+      "message": "Youtube oldalakon"
+   },
+   "opt_exclude_iframe": {
+      "message": "Beágyazott lejátszók támogatásának letiltása"
+   },
+   "opt_exclude_iframe_tooltip": {
+      "message": "A bővítmény nem fog működni beágyazott videókban"
+   },
+   "opt_report_issues": {
+      "message": "Hibajelzésre való felszólítás megjelenítése"
+   },
+   "opt_report_issues_tooltip": {
+      "message": "Szükség van a YouTube felugró ablakának engedélyezésére a felszólításhoz"
+   },
+   "opt_api_key_warn": {
+      "message": "Használja az [API kulcsát] stabil munkához"
+   },
+   "lang_code_tooltip": {
+      "message": "Nyelv kiválasztása"
+   },
+   "lang_code": {
+      "message": "Nyelv"
+   },
+   "github_page": {
+      "message": "Forráskód"
+   },
+   "github_page_tooltip": {
+      "message": "Megnyitás"
+   },
+   "github_page_issues": {
+      "message": "Hibák jelentése"
+   },
+   "github_page_issues_tooltip": {
+      "message": "Jelentés"
+   },
+   "email": {
+      "message": "Email"
+   },
+   "email_tooltip": {
+      "message": "Visszajelzés"
+   },
+   "donate_patreon_tooltip": {
+      "message": "Támogatás Patreonnal"
+   },
+   "donate_patreon": {
+      "message": "Adományozás (Patreon)"
+   },
+   "donate_buymeacoffee_tooltip": {
+      "message": "Támogatás a buymeacoffee-val"
+   },
+   "donate_buymeacoffee": {
+      "message": "Adományozás (buymeacoffee)"
+   },
+   "donate_paypal_tooltip": {
+      "message": "Támogatás Paypal-al"
+   },
+   "donate_paypal": {
+      "message": "Adományozás (Paypal)"
+   }
+}
